@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "eslint": "^5.9.0",
+    "eslint-plugin-jest": "^22.1.2",
+    "htmlhint": "^0.10.1",
+    "jest": "^23.6.0",
+    "npm": "^6.13.1",
+    "serve": "^11.0.0"
+  },
+  "bin": {
+    "md-links": "./lib/cli.js"
+  },
+  "name": "sap003-md-links",
+  "version": "1.0.0",
+  "description": "## Índice",
+  "main": "lib",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sshregina/SAP003-md-links.git"
+  },
+  "author": "Sheila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sshregina/SAP003-md-links/issues"
+  },
+  "homepage": "https://github.com/sshregina/SAP003-md-links#readme"
+}
